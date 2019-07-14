@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Petrol Bunk Management System">
+</Property><Property Name="Solution File" Value="G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System.sln">
+</Property><Property Name="Date" Value="15 April 2017">
+</Property><Property Name="Time" Value="18:27">
+</Property></Properties><Event ErrorLevel="4" Project="Petrol Bunk Management System" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="Petrol Bunk Management System" Source="Petrol Bunk Management System\Petrol Bunk Management System.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Petrol Bunk Management System" Source="Petrol Bunk Management System\Petrol Bunk Management System.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Petrol Bunk Management System.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Petrol Bunk Management System.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Petrol Bunk Management System" Source="Petrol Bunk Management System\Petrol Bunk Management System.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

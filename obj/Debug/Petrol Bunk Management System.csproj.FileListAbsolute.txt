@@ -1,0 +1,135 @@
+D:\karthick\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\karthick\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.DebtorDetails.resources
+D:\karthick\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.EmployeeDetails.resources
+D:\karthick\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelCostDetails.resources
+D:\karthick\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelStockdetailsetails.resources
+D:\karthick\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Properties.Resources.resources
+D:\karthick\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.PurchaseDetails.resources
+D:\karthick\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.SalesDetails.resources
+D:\karthick\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.csproj.GenerateResource.Cache
+D:\karthick\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\bin\Debug\Petrol Bunk Management System.exe
+D:\karthick\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\bin\Debug\Petrol Bunk Management System.pdb
+D:\karthick\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.exe
+D:\karthick\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.pdb
+D:\karthick\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.MDIForm.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.exe
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.pdb
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\bin\Debug\Petrol Bunk Management System.exe
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\bin\Debug\Petrol Bunk Management System.pdb
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.DebtorDetails.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.EmployeeDetails.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelCostDetails.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelStockdetailsetails.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.MDIForm.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Properties.Resources.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.PurchaseDetails.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.SalesDetails.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.csproj.GenerateResource.Cache
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.exe
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.pdb
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.DebtorDetails.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.EmployeeDetails.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelCostDetails.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelStockdetailsetails.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Login.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.MDIForm.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Properties.Resources.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.PurchaseDetails.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.SalesDetails.resources
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.csproj.GenerateResource.Cache
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\bin\Debug\Petrol Bunk Management System.exe
+D:\karthick\vb.net projects\Petrol Bunk Management System\Petrol Bunk Management System\bin\Debug\Petrol Bunk Management System.pdb
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.exe
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.pdb
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\bin\Debug\Petrol Bunk Management System.exe
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\bin\Debug\Petrol Bunk Management System.pdb
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.DebtorDetails.resources
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.EmployeeDetails.resources
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelCostDetails.resources
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelStockdetailsetails.resources
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Login.resources
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.MDIForm.resources
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Properties.Resources.resources
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.PurchaseDetails.resources
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.SalesDetails.resources
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.csproj.GenerateResource.Cache
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.EmployeeReport.resources
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.DebtorReport.resources
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelCostReport.resources
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelStockReport.resources
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.PurchaseReport.resources
+D:\karthick\windows project\c# projects\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.SalesReport.resources
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.exe
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.DebtorDetails.resources
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.EmployeeDetails.resources
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelCostDetails.resources
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelCostReport.resources
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelStockdetailsetails.resources
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelStockReport.resources
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Login.resources
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.MDIForm.resources
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Properties.Resources.resources
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.PurchaseDetails.resources
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.PurchaseReport.resources
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.SalesDetails.resources
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.SalesReport.resources
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.csproj.GenerateResource.Cache
+C:\Petrol Bunk Management System\Petrol Bunk Management System\bin\Debug\Petrol Bunk Management System.exe
+C:\Petrol Bunk Management System\Petrol Bunk Management System\bin\Debug\Petrol Bunk Management System.pdb
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.pdb
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Debtor_Details_Report.resources
+C:\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Employee_Details_Report.resources
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.exe
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.pdb
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\bin\Debug\Petrol Bunk Management System.exe
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\bin\Debug\Petrol Bunk Management System.pdb
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.csprojResolveAssemblyReference.cache
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Debtor_Details_Report.resources
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.DebtorDetails.resources
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Employee_Details_Report.resources
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.EmployeeDetails.resources
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelCostDetails.resources
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelCostReport.resources
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelStockdetailsetails.resources
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelStockReport.resources
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Login.resources
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.MDIForm.resources
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Properties.Resources.resources
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.PurchaseDetails.resources
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.PurchaseReport.resources
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.SalesDetails.resources
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.SalesReport.resources
+G:\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.csproj.GenerateResource.Cache
+G:\Developing\bak\Project sols\BCM\New folder\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.exe
+G:\Developing\bak\Project sols\BCM\New folder\projects\14bcm027\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.pdb
+E:\Major Project\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.exe
+E:\Major Project\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.pdb
+E:\Major Project\Over\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.exe
+E:\Major Project\Over\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.pdb
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.exe
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.pdb
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\bin\Debug\Petrol Bunk Management System.exe
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\bin\Debug\Petrol Bunk Management System.pdb
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.csprojResolveAssemblyReference.cache
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Debtor_Details_Report.resources
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.DebtorDetails.resources
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Employee_Details_Report.resources
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.EmployeeDetails.resources
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelCostDetails.resources
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelCostReport.resources
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelStockdetailsetails.resources
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.FuelStockReport.resources
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Login.resources
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.MDIForm.resources
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.Properties.Resources.resources
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.PurchaseDetails.resources
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.PurchaseReport.resources
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.SalesDetails.resources
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol_Bunk_Management_System.SalesReport.resources
+E:\Major Project\Over\PPT Given\Raja Ram Of\Petrol Bunk Management System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.csproj.GenerateResource.Cache
+G:\Developing\Projects\Petrol_Bunk_Management_System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.exe
+G:\Developing\Projects\Petrol_Bunk_Management_System\Petrol Bunk Management System\obj\Debug\Petrol Bunk Management System.pdb
